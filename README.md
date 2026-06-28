@@ -1,2 +1,12 @@
 # python-todo-list
-A  simple to-do list application built with python and tkinter 
+** To-Do List 
+A simple To-Do List application built using Python and Tkinter.
+Features:
+- Add tasks
+- Delete tasks
+- Clear all tasks
+- Save tasks
+- Status bar showing the number of tasks
+Built With:
+- Python
+- Tkinter
